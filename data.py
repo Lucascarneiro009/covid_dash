@@ -4,6 +4,8 @@ import pandas as pd
 import os
 import shutil
 
+### teste####
+
 def clear_folder(path):
     '''
     Função que deleta todos os arquivos dentro de uma pasta.
